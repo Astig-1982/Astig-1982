@@ -4,7 +4,7 @@ I'm an enthusiastic Junior Developer ready to start my new adventures in the art
 
 * I love working on new projects and solving problems.
 * Fell in love with backend development - could say it was love at first sight. 
-* Also equally HUGE passionate about frontend development - currently learning **React** to improve my skills.
+* Equally HUGE passionate about frontend development - currently learning **React** to improve my skills.
 
 ### Technologies & Tools
 
